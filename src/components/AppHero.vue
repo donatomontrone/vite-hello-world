@@ -13,6 +13,6 @@ div.jumbotron {
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: 90vh;
+    height: 91vh;
 }
 </style>
